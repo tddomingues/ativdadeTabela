@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    border-collapse: collapse;
+    margin: 10px;
+}
+tr, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#backsuperior {
+    background: #FEFFD2;
+    border-radius: 2px;
+    font-size: 60px;
+}
